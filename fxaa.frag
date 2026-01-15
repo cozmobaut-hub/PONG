@@ -1,7 +1,7 @@
 #version 120
 
 // FXAA 3.11 implementation by Timothy Lottes
-// Adapted for SFML
+// Contribution from Friends and Sponsors
 
 uniform sampler2D texture;
 uniform vec2 resolution;
